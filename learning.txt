@@ -1,1 +1,2 @@
+What I have learned from this course
 One key lesson i have gained from this course is how to effectively use GitHub for project managment, including creating repositories and collaborating with othersthrough pull request.
